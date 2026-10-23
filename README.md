@@ -1,6 +1,6 @@
 # 🍽️ Connoisseur Companion — RAG & Agentic AI Capstone
 
-**IBM RAG and Agentic AI Capstone Project** · **Completed October 22, 2026** · **Final assessment: 60/60 (100%)**
+**IBM RAG and Agentic AI Capstone Project** · **Completed October 22, 2026** 
 
 An educational, AI-powered restaurant recommendation prototype developed through four hands-on modules: **structured LLM data extraction, multimodal RAG, multi-agent workflows, and an MCP-enabled conversational application**.
 
