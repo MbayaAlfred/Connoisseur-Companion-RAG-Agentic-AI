@@ -1,0 +1,6 @@
+fastmcp==3.1.0
+mcp
+anthropic
+gradio==6.9.0
+langchain-ibm==1.0.4
+langchain-core==1.2.18
